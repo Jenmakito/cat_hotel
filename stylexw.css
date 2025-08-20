@@ -198,3 +198,33 @@ body {
 .cat-table button:hover {
     background-color: #dfe6e9;
 }
+
+.status {
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.status.paid {
+    color: #27ae60; /* สีเขียว */
+    background-color: #dff0d8;
+}
+
+.status.unpaid {
+    color: #c0392b; /* สีแดง */
+    background-color: #f2d7d5;
+}
+
+.cat-table-button {
+    padding: 5px 10px;
+    background-color: #391d53;
+    color: rgb(197, 113, 215);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.cat-table-button:hover {
+    background-color: #74b9ff;
+}

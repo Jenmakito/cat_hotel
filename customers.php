@@ -18,15 +18,15 @@ $result = $conn->query($sql);
 <div class="sidebar">
     <h2>เมนูหลัก</h2>
     <ul class="menu-list">
-        <li><a href="index.php">ข้อมูลลูกค้า</a></li>
+        <li><a href="index.php">หน้าเเรก</a></li>
         <li><a href="cat_menu.php">จัดการข้อมูลแมว</a></li>
         <li><a href="booking_menu.php">จองห้องพัก</a></li>
     </ul>
 
     <h2>เมนูเพิ่มเติม</h2>
     <ul class="menu-list">
-        <li><a href="#">ตรวจสอบห้อง</a></li>
-        <li><a href="#">ชำระเงิน</a></li>
+        <li><a href="check_rooms.php">ตรวจสอบห้อง</a></li>
+        <li><a href="payment.php">ชำระเงิน</a></li>
         <li><a href="#">รายงาน / วิเคราะห์ข้อมูล</a></li>
         <li><a href="login.php">ออกจากระบบ</a></li>
     </ul>
