@@ -8,7 +8,7 @@
 <body>
 
 <div class="sidebar">
-    <h2>เมนูหลัก  </h2>
+    <h2>@@เมนูหลัก@@</h2>
     <ul class="menu-list">
         <li><a href="customers.php">ข้อมูลลูกค้า</a></li>
         <li><a href="cat_menu.php">จัดการข้อมูลแมว</a></li>
